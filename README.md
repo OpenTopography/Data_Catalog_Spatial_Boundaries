@@ -1,1 +1,4 @@
-# OTCatalog_SpatialBoundaries
+# OpenTopography Data Catalog Spatial Boundaries
+Updated spatial boundaries of topography datasets available via opentopography.org provided in GeoJSON and TopoJSON formats.
+
+GeoJSON and TopoJSON are formats for encoding geographic data structures. GeoJSON stores geographic data in a format similar to JSON, while TopoJSON is an extension of GeoJSON that encodes topology, allowing for more compact files and efficient rendering by eliminating redundancy in shared borders between features. Both formats can be used with various GIS software and web mapping libraries.
