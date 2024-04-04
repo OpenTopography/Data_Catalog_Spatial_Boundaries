@@ -1,0 +1,1 @@
+{"Dataset":{"identifier":{"@type":"PropertyValue","propertyID":"opentopoID","value":"OTSDEM.122023.4326.2"},"name":"GEBCO Global Bathymetry and Topography Including Basal Ice Surface","alternateName":"GEBCOSubIceTopo"},"geometry":{"coordinates":[[[-180,-90],[-180,90],[180,90],[180,-90],[-180,-90]]],"type":"Polygon"},"type":"Feature"}
