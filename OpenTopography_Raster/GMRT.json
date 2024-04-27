@@ -1,1 +1,0 @@
-{"Dataset":{"identifier":{"@type":"PropertyValue","propertyID":"opentopoID","value":"OTGMRT.112016.4326.1"},"name":"Global Multi-Resolution Topography (GMRT) Data Synthesis","alternateName":"GMRT"},"geometry":{"coordinates":[[[-180,-90],[-180,90],[180,90],[180,-90],[-180,-90]]],"type":"Polygon"},"type":"Feature"}

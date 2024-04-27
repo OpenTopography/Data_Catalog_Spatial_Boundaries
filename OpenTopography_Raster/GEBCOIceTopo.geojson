@@ -1,0 +1,1 @@
+{"geometry":{"coordinates":[[[-180,-90],[-180,90],[180,90],[180,-90],[-180,-90]]],"type":"Polygon"},"type":"Feature","properties":{"identifier":{"@type":"PropertyValue","propertyID":"opentopoID","value":"OTSDEM.122023.4326.1"},"name":"GEBCO Global Bathymetry and Topography","alternateName":"GEBCOIceTopo"}}

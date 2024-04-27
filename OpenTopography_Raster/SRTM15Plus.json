@@ -1,1 +1,0 @@
-{"Dataset":{"identifier":{"@type":"PropertyValue","propertyID":"opentopoID","value":"OTSRTM.122019.4326.1"},"name":"Global Bathymetry and Topography at 15 Arc Sec: SRTM15+ V2.5.5","alternateName":"SRTM15Plus"},"geometry":{"coordinates":[[[-180,-90],[-180,90],[180,90],[180,-90],[-180,-90]]],"type":"Polygon"},"type":"Feature"}
