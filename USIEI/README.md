@@ -1,8 +1,8 @@
+# USIEI Dataset Extent Boundaries (Layers 0–4)
 US Interagency Elevation Inventory
 
 The U.S. Interagency Elevation Inventory shows availability of high-accuracy topographic and bathymetric data for the United States and its territories. The project is a collaborative effort between NOAA and the U.S. Geological Survey, with contributions from the Federal Emergency Management Agency, U.S. Department of Agriculture, and U.S. Army Corps of Engineers. This resource is a comprehensive, nationwide listing of known high-accuracy topographic data, including lidar and IfSAR, and bathymetric data, including NOAA hydrographic surveys, multibeam data, and bathymetric lidar. OpenTopography federates access to the USIEI as a service to our users. Visit United States Interagency Elevation Inventory to learn more about the USIEI
 
-# USIEI Dataset Extent Boundaries (Layers 0–4)
 This repository contains the spatial extent boundaries for datasets in the **United States Interagency Elevation Inventory (USIEI)**. Each dataset is grouped into one of five standardized layers based on its data type.
 
 For each layer, we provide three formats:
