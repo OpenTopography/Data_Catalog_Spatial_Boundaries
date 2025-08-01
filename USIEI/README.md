@@ -73,4 +73,4 @@ For each layer, we provide three formats:
 ## 📞 Contact
 
 For more information or questions about these files, please contact:
-OpenTopography Project, email info@opentopography.org   
+OpenTopography, email info@opentopography.org   
